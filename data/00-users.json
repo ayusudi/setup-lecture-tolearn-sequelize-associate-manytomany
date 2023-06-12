@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Roxy",
+    "email": "rmanson0@list-manage.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 2,
+    "name": "Blair",
+    "email": "bbentke1@weibo.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 3,
+    "name": "Clarinda",
+    "email": "cjurgen2@newsvine.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 4,
+    "name": "Karylin",
+    "email": "klakin3@t.co",
+    "password": "qwerty"
+  },
+  {
+    "id": 5,
+    "name": "Merrily",
+    "email": "mangrick4@wordpress.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 6,
+    "name": "Had",
+    "email": "htumayan5@shutterfly.com",
+    "password": "qwerty"
+  },
+  {
+    "id": 7,
+    "name": "Bill",
+    "email": "bwhymark6@unblog.fr",
+    "password": "qwerty"
+  },
+  {
+    "id": 8,
+    "name": "Breena",
+    "email": "bdelaney7@deviantart.com",
+    "password": "qwerty"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Split",
+    "synopsis": "lorem ipsum dolor sit amet",
+    "poster": "https://s.studiobinder.com/wp-content/uploads/2017/12/Movie-Poster-Template-Light-With-Image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Beauty and the Beast",
+    "synopsis": "lorem ipsum dolor sit amet",
+    "poster": "https://s.studiobinder.com/wp-content/uploads/2017/12/Movie-Poster-Template-Light-With-Image.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Harry Potter and the Deathly Hallows",
+    "synopsis": "lorem ipsum dolor sit amet",
+    "poster": "https://s.studiobinder.com/wp-content/uploads/2017/12/Movie-Poster-Template-Light-With-Image.jpg"
+  }
+]

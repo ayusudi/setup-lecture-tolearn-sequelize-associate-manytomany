@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "MovieId": 1,
+    "ActorId": 1,
+    "characterName": "Kevin",
+    "mainCharacter": true,
+    "characterType": "antagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 2,
+    "MovieId": 1,
+    "ActorId": 1,
+    "characterName": "Patricia",
+    "mainCharacter": false,
+    "characterType": "antagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 3,
+    "MovieId": 1,
+    "ActorId": 1,
+    "characterName": "Hedwig",
+    "mainCharacter": false,
+    "characterType": "protagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 4,
+    "MovieId": 2,
+    "ActorId": 3,
+    "characterName": "Belle",
+    "mainCharacter": true,
+    "characterType": "protagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 5,
+    "MovieId": 3,
+    "ActorId": 2,
+    "characterName": "Harry Potter",
+    "mainCharacter": true,
+    "characterType": "protagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 6,
+    "MovieId": 3,
+    "ActorId": 4,
+    "characterName": "Ron Weasly",
+    "mainCharacter": false,
+    "characterType": "protagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  },
+  {
+    "id": 7,
+    "MovieId": 3,
+    "ActorId": 3,
+    "characterName": "Harmonie Granger",
+    "mainCharacter": false,
+    "characterType": "protagonist",
+    "image": "https://cdn.vectorstock.com/i/preview-1x/77/30/default-avatar-profile-icon-grey-photo-placeholder-vector-17317730.jpg"
+  }
+]
